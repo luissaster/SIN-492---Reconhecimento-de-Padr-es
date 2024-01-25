@@ -1,1 +1,1 @@
-# SIN-492---Reconhecimento-de-Padr-es
+# SIN 492 - Reconhecimento de Padrões 
