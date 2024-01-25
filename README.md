@@ -1,0 +1,1 @@
+# SIN-492---Reconhecimento-de-Padr-es
