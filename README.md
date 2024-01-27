@@ -1,10 +1,10 @@
 # Projeto de SIN 492 - Reconhecimento de Padrões
 
-## Descrição do Projeto
+## Descrição
 
 Este repositório contém o código-fonte e o conjunto de dados utilizados para o projeto desenvolvido durante a disciplina de verão SIN492 - Reconhecimento de Padrões.
 
-## Arquivos Principais
+## Arquivos
 
 1. **SIN_492_Modelo_K_NN.ipynb**: Notebook Jupyter contendo o código do projeto. Ele inclui a implementação dos modelos e as visualizações associadas.
 
