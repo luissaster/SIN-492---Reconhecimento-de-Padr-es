@@ -4,7 +4,7 @@
 
 Este repositório contém o código-fonte e o conjunto de dados para um projeto de reconhecimento de padrões utilizando os algoritmos KNN (k-Nearest Neighbors) e Perceptron. O projeto foi desenvolvido como parte da disciplina de verão SIN492 - Reconhecimento de Padrões.
 
-### Arquivos Principais
+## Arquivos Principais
 
 1. **SIN_492_Modelo_K_NN.ipynb**: Notebook Jupyter contendo o código do projeto. Ele inclui a implementação dos modelos e as visualizações associadas.
 
