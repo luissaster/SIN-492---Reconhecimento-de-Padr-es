@@ -1,4 +1,4 @@
-### Projeto de SIN 492 - Reconhecimento de Padrões
+# Projeto de SIN 492 - Reconhecimento de Padrões
 
 ## Descrição do Projeto
 
