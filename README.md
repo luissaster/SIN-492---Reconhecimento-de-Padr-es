@@ -26,8 +26,8 @@ Para executar o notebook e reproduzir os resultados, siga estas etapas:
     ```bash
     jupyter notebook projeto_reconhecimento_padroes.ipynb
     ```
-4. Alternativamente, utilize do Google Colab para abrir e executar o notebook.
-5. Execute as células do notebook sequencialmente para reproduzir os experimentos.
+4. Execute as células do notebook sequencialmente para reproduzir os experimentos.
+5. Alternativamente, utilize do [Google Colab](https://colab.research.google.com/drive/1rVy1FoXvQ4SFXKURmhgTbU_aw0MdGI65?usp=sharing) para abrir e executar o notebook.
 
 ## Participantes
 
