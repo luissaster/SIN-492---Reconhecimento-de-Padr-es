@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém o código-fonte e o conjunto de dados utilizados para o projeto desenvolvido durante a disciplina de verão SIN492 - Reconhecimento de Padrões.
+Este repositório contém o código-fonte e o conjunto de dados utilizados no projeto desenvolvido durante a disciplina de verão SIN492 - Reconhecimento de Padrões.
 
 ## Arquivos
 
