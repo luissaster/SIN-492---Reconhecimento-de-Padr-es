@@ -21,11 +21,16 @@ Para executar o notebook e reproduzir os resultados, siga estas etapas:
     ```bash
     pip install pandas scikit-learn matplotlib seaborn
     ```
-3. *Importante*: Atualizar o endereço do arquivo .CSV no SIN_492_Modelo_K_NN.ipynb.
+3. *Importante*: No arquivo SIN_492_Modelo_K_NN.ipynb, atualizar o endereço para importação do arquivo .CSV e o diretório para salvar os gráficos gerados.
 
    ```python
    # Importando o arquivo .csv
     df = pd.read_csv('/content/drive/MyDrive/database')
+
+    # Diretório para salvar as visualizações.
+    EXP_PATH = '/content/drive/MyDrive/knnresults'
+    if not os.path.exists(EXP_PATH):
+        os.makedirs(EXP_PATH)
    ```
 
 4. Abra o notebook [Jupyter](https://jupyter.org/install):
